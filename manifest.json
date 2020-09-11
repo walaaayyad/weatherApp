@@ -1,0 +1,47 @@
+{
+    "name": "Weather Forecast Application",
+    "short_name": "weatherApp",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#545ef3",
+    "theme_color": "#545ef3",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/icons/celsius.svg",
+            "type": "image/svg",
+            "sizes":"30x35",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/icons/close-outline.svg",
+            "type": "image/svg",
+            "sizes":"25x25",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/icons/cloudy.png",
+            "type": "image/png",
+            "sizes":"512x512",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/icons/history.svg",
+            "type": "image/svg",
+            "sizes":"25x25",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/icons/partly-sunny-outline.svg",
+            "type": "image/svg",
+            "sizes":"35x35",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/icons/search-outline.svg",
+            "type": "image/svg",
+            "sizes":"25x25",
+            "purpose": "any maskable"
+        }
+    ]
+}
